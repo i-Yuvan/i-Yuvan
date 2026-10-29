@@ -14,7 +14,7 @@ I'm passionate about programming, problem-solving, and understanding how technol
 
 ### 🚀 My Projects
 - 🐍 **Python Calculator** — Basic arithmetic operations using Python.
-- ⚙️ **C++ Calculator** — A menu-driven calculator built using C++.
+- ⚙️ **C++ Calculator** — A Advance calculator built using C++.
 - 🎯 **Number Guessing Game** — A Python game using random numbers and conditional logic.
 
 ### 🌱 Currently Working On
